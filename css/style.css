@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700,900&display=swap');
+
+@font-face {
+	font-family:Larsseit ;
+	src: url('../fonts/Larsseit-Bold.woff2') format("woff2"),url('../fonts/Larsseit-Bold.woff') format("woff") ;
+	font-weight:700 ;
+	font-display: swap;
+}
+@font-face {
+	font-family:Larsseit ;
+	src: url('../fonts/Larsseit-Medium.woff2') format("woff2"),url('../fonts/Larsseit-Medium.woff') format("woff") ;
+	font-weight:500 ;
+	font-display: swap;
+}
+@font-face {
+	font-family:Larsseit ;
+	src: url('../fonts/Larsseit.woff2') format("woff2"),url('../fonts/Larsseit.woff') format("woff") ;
+	font-weight:400 ;
+	font-display: swap;
+}
+.caver{
+	font-family: lato;
+	font-weight: 900;
+}
+.title{
+	
+	color: rgba(3, 2, 3, 0.34);
+}
+p{
+	color: rgb(65, 43, 43);
+}
+p{
+	color: rgb(26, 26, 72);
+}
+.text{
+	color: rgb(101, 46, 153);
+}
+li{
+	color: blue;
+}
+.list li{
+	color: aquamarine;
+}
+h2{
+	font-family: Roboto;
+	font-weight:700;
+	color: blueviolet;
+}
